@@ -1,8 +1,14 @@
 p{
-    color:blue;
+    color:rgb(72, 21, 138);
     font-size:x-large;
-    font: weight 700px;;
+    font: weight 700px;
+    max-width: 700px;
 }
-body {
-background-color: azure;
+body
+{background-color: rgb(157, 207, 207);}
+
+#head{
+
+    font-size:xx-large;
+    font-weight: bold;
 }
